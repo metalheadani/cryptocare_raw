@@ -1,0 +1,9 @@
+Building Cryptocare
+
+See doc/readme-qt.rst for instructions on building Cryptocare-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cryptocare.
+
+See doc/build-*.txt for instructions on building cryptocared,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cryptocare.
